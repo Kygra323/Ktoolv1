@@ -19,3 +19,7 @@ pip install colorama
 ```console
 pip install requests
 ```
+
+```console
+git clone https://github.com/Kygra323/Ktoolv1.git
+```
