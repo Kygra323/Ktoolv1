@@ -23,3 +23,15 @@ pip install requests
 ```console
 git clone https://github.com/Kygra323/Ktoolv1.git
 ```
+
+```console
+cd ktoolv1
+```
+
+```console
+python setup.sh
+```
+
+```console
+python main.py
+```
