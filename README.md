@@ -13,5 +13,9 @@ pkg install python
 ```
 
 ```console
-pip install colorama && requests
+pip install colorama
+```
+
+```console
+pip install requests
 ```
