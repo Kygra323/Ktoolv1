@@ -2,11 +2,16 @@
 
 ```console
 pkg update && upgrade
+```
 
+```console
 pkg install git
+```
 
+```console
 pkg install python
+```
 
-pip install colorama
-
-pip install requests
+```console
+pip install colorama && requests
+```
