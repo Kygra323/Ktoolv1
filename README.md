@@ -29,6 +29,14 @@ cd ktoolv1
 ```
 
 ```console
+chmod +x setup.sh
+```
+
+```console
+chmod +x main.py
+```
+
+```console
 python setup.sh
 ```
 
