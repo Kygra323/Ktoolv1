@@ -1,2 +1,1 @@
-# Ktoolv1
-Kygra Tool V1
+# KTool V1 Setup
